@@ -1,0 +1,15 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "I am trying to become a spacialist on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon buffer",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
